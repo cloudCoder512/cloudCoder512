@@ -55,6 +55,6 @@ These are some of the major technologies that I use or have worked on in the pas
 |--|--|
 
 ### Here is a random meme for you, to make your day better
-(*PS: Refresh the page to see a new meme* :wink: )
+(*Refresh the page to see a new meme* :wink: )
 
-<a href="https://github.com/cloudCoder512"><img src='https://web-production-4cea.up.railway.app/' title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a>
+<a href="https://github.com/cloudCoder512"><img src='https://api.memegen.link/images/rollsafe/When_you_have_a_really_good_idea.webp?layout=top' title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a>
