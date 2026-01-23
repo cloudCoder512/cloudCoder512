@@ -28,11 +28,19 @@ These are some of the major technologies that I use or have worked on in the pas
 <img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="ElasticSearch" alt="ElasticSearch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png">|<img title="Google Sheet" alt="Google Sheet" width="40px" src="https://mailmeteor.com/logos/assets/PNG/Google_Sheets_Logo_512px.png"> <br>
 |--|--|--|--|
 
-**Tools**
+**Operating System**
 
+<img title="Linux" alt="Linux" width="40px" src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png">|<img title="Mac OS" alt="Mac OS" width="40px" src="https://cdn-icons-png.flaticon.com/128/16060/16060933.png">
+|--|--|
+
+**Tools**
 <img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="ZSH" alt="ZSH" width="40px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
 |--|--|--|--|--|
 <br>
+
+**productivity**
+<img title="Power BI" alt="Power BI" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0X6PvpZlJjGfldKYefuNLJSX2BDRHbPh_KA&s">|<img title="Power Apps" alt="Power Apps" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Powerapps-logo.svg/250px-Powerapps-logo.svg.png?20250219191713">
+|--|--|
 
 ## Some of my stats :bar_chart:
 
