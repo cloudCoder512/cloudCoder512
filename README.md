@@ -1,7 +1,7 @@
 
 <h1>Hi There, I'm Adarsh Varma <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Web Devoloper and Softwear Engineer** working at [MyVault](https://cloudcoder512.github.io/CornFlax/). My day to day work revolves around building Usefull and Tools models for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
+I'm a **Web Developer and software Engineer** working at [MyVault](https://cloudcoder512.github.io/CornFlax/). My day to day work revolves around building Usefull and Tools models for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
 <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
