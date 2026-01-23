@@ -39,7 +39,7 @@ These are some of the major technologies that I use or have worked on in the pas
 <br>
 
 **productivity**
-<img title="Power BI" alt="Power BI" width="40px" src="https://img.favpng.com/16/19/12/power-bi-business-intelligence-microsoft-corporation-data-visualization-data-analysis-png-favpng-cMVyA8eZ4UsFWn0ssLqEPfTZE.jpg">|<img title="Power Apps" alt="Power Apps" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Powerapps-logo.svg/250px-Powerapps-logo.svg.png?20250219191713">
+<img title="Power BI" alt="Power BI" width="40px" src="https://img.icons8.com/color/512/power-bi-2021.png">|<img title="Power Apps" alt="Power Apps" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Powerapps-logo.svg/250px-Powerapps-logo.svg.png?20250219191713">
 |--|--|
 
 ## Some of my stats :bar_chart:
