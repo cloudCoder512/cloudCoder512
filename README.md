@@ -2,7 +2,8 @@
 <h1>Hi There, I'm Adarsh Varma <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 I'm a **Web Devoloper and Softwear Engineer** working at [MyVault](https://cloudcoder512.github.io/CornFlax/). My day to day work revolves around building Usefull and Tools models for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
-
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br>
 ## Skill Set :muscle:
 
 These are some of the major technologies that I use or have worked on in the past:
@@ -57,4 +58,4 @@ These are some of the major technologies that I use or have worked on in the pas
 ### Here is a random meme for you, to make your day better
 (*Refresh the page to see a new meme* :wink: )
 
-<a href="https://github.com/cloudCoder512"><img src='https://www.craigthacker.dev/memes' title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a>
+<a href="https://www.craigthacker.dev/memes"><img src='https://www.craigthacker.dev/memes' title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a>
