@@ -63,4 +63,4 @@ These are some of the major technologies that I use or have worked on in the pas
 ### Here is a random meme for you, to make your day better
 (*Refresh the page to see a new meme* :wink: )
 
-<a href="https://www.craigthacker.dev/memes"><img src="https://www.pngplay.com/wp-content/uploads/6/Doge-Head-Meme-Transparent-Background.png" title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjElCkFV9evPonjV3CH-czBQqJ_WR9ZHCJMQ&s" title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a>
+<a href="https://www.craigthacker.dev/memes"><img src="https://www.pngplay.com/wp-content/uploads/6/Doge-Head-Meme-Transparent-Background.png" title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a><img src="https://pbs.twimg.com/profile_images/1638485848533667841/pSwgVMRh_400x400.jpg" title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a>
