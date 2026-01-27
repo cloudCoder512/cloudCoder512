@@ -44,7 +44,7 @@ These are some of the major technologies that I use or have worked on in the pas
 |--|--|--|--|--|
 <br>
 
-**productivity**
+**Productivity**
 <img title="Power BI" alt="Power BI" width="40px" src="https://img.icons8.com/color/512/power-bi-2021.png">|<img title="Power Apps" alt="Power Apps" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Powerapps-logo.svg/250px-Powerapps-logo.svg.png?20250219191713">
 |--|--|
 
@@ -54,6 +54,20 @@ These are some of the major technologies that I use or have worked on in the pas
 |--|--|
 
 <br>
+
+## Microsoft certificate
+<img src="https://github.com/cloudCoder512/achievement/blob/master/Achievements01.pdf" title="Meme" alt="Please refresh the page if doesn't show up." height="70"></a>|<img src="https://pbs.twimg.com/profile_images/1638485848533667841/pSwgVMRh_400x400.jpg" title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a>|
+<img src="https://pbs.twimg.com/profile_images/1638485848533667841/pSwgVMRh_400x400.jpg" title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a>|
+<img src="https://pbs.twimg.com/profile_images/1638485848533667841/pSwgVMRh_400x400.jpg" title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a>
+<img src="https://pbs.twimg.com/profile_images/1638485848533667841/pSwgVMRh_400x400.jpg" title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a>
+<img src="https://pbs.twimg.com/profile_images/1638485848533667841/pSwgVMRh_400x400.jpg" title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a>
+<img src="https://pbs.twimg.com/profile_images/1638485848533667841/pSwgVMRh_400x400.jpg" title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a>
+<img src="https://pbs.twimg.com/profile_images/1638485848533667841/pSwgVMRh_400x400.jpg" title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a>
+<img src="https://pbs.twimg.com/profile_images/1638485848533667841/pSwgVMRh_400x400.jpg" title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a>
+<img src="https://pbs.twimg.com/profile_images/1638485848533667841/pSwgVMRh_400x400.jpg" title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a>
+<img src="https://pbs.twimg.com/profile_images/1638485848533667841/pSwgVMRh_400x400.jpg" title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a>
+<img src="https://pbs.twimg.com/profile_images/1638485848533667841/pSwgVMRh_400x400.jpg" title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a>
+<img src="https://pbs.twimg.com/profile_images/1638485848533667841/pSwgVMRh_400x400.jpg" title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a>
 
 ## Let's Connect :handshake:
 
