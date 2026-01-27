@@ -48,6 +48,12 @@ These are some of the major technologies that I use or have worked on in the pas
 <img title="Power BI" alt="Power BI" width="40px" src="https://img.icons8.com/color/512/power-bi-2021.png">|<img title="Power Apps" alt="Power Apps" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Powerapps-logo.svg/250px-Powerapps-logo.svg.png?20250219191713">
 |--|--|
 
+**Programming Languages**
+
+<img title="certificate1" alt="certificate1" width="40px" src="https://github.com/cloudCoder512/achievement/blob/master/certificate1.png" />|<img alt="certificate1" title="certificate1" width="40px" src="https://github.com/cloudCoder512/achievement/blob/master/certificate2.png">|<img alt="certificate1" title="certificate1" width="40px" src="https://github.com/cloudCoder512/achievement/blob/master/certificate3.png">|<img title="certificate1" alt="certificate1" width="40px" src="https://github.com/cloudCoder512/achievement/blob/master/certificate4.png">|<img title="certificate1" alt="certificate1" width="40px" src="https://github.com/cloudCoder512/achievement/blob/master/certificate5.png">|<img title="certificate1" alt="certificate1" width="40px" src="https://github.com/cloudCoder512/achievement/blob/master/certificate6.png">|<img title="certificate1" alt="certificate1" width="40px" src="https://github.com/cloudCoder512/achievement/blob/master/certificate7.png">|<img title="certificate1" alt="certificate1" width="40px" src="https://github.com/cloudCoder512/achievement/blob/master/certificate8.png">|<img title="Java" alt="Java" width="40px" src="https://github.com/cloudCoder512/achievement/blob/master/certificate1.png">|<img title="Kotlin" alt="Kotlin" width="40px" src="https://github.com/cloudCoder512/achievement/blob/master/certificate1.png">
+|--|--|--|--|--|--|--|--|--|--|
+
+
 ## Some of my stats :bar_chart:
 
 <img src="https://github-readme-stats.vercel.app/api?username=cloudCoder512&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/5679285"><img src="https://www.sliderrevolution.com/wp-content/uploads/2021/09/sliderrevolution-blog-image-6.gif" height="250"></a>
