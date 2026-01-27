@@ -60,15 +60,18 @@ These are some of the major technologies that I use or have worked on in the pas
 <img src='https://hacked-github-stat-trophies.vercel.app/?username=tynab&theme=dracula&column=11'>
 </p>
 <div>
-    <img src='https://github.com/My-Project512/Tynab/blob/main/certificate/SE.png' width='279' title='Software Engineer'>
-    <img src='https://github.com/My-Project512/Tynab/blob/main/certificate/FE.png' width='279' title='Frontend Developer (React)'>
-    <img src='https://github.com/My-Project512/Tynab/blob/main/certificate/Java1.png' width='279' title='Java (Basic)'>
-    <img src='https://github.com/My-Project512/Tynab/blob/main/certificate/Python1.png' width='279' title='Python (Basic)'>
-    <img src='https://github.com/My-Project512/Tynab/blob/main/certificate/JavaScript2.png' width='279' title='JavaScript (Intermediate)'>
-    <img src='https://github.com/My-Project512/Tynab/blob/main/certificate/Go2.png' width='279' title='Go (Intermediate)'>
-    <img src='https://github.com/My-Project512/Tynab/blob/main/certificate/Problem2.png' width='279' title='Problem Solving (Intermediate)'>
-    <img src='https://github.com/My-Project512/Tynab/blob/main/certificate/Rest2.png' width='279' title='Rest API (Intermediate)'>
-    <img src='https://github.com/My-Project512/Tynab/blob/main/certificate/SQL3.png' width='279' title='SQL (Advanced)'>
+    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate1.png' width='279' title='Software Engineer'>
+    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate2.png' width='279' title='Software Engineer'>
+    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate3.png' width='279' title='Software Engineer'>
+    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate4.png' width='279' title='Software Engineer'>
+    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate5.png' width='279' title='Software Engineer'>
+    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate6.png' width='279' title='Software Engineer'>
+    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate7.png' width='279' title='Software Engineer'>
+    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate8.png' width='279' title='Software Engineer'>
+    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate9.png' width='279' title='Software Engineer'>
+    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate10.png' width='279' title='Software Engineer'>
+    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate11.png' width='279' title='Software Engineer'>
+    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate12.png' width='279' title='Software Engineer'>
 </div>
 
 
