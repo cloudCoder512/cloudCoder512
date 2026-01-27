@@ -56,18 +56,21 @@ These are some of the major technologies that I use or have worked on in the pas
 <br>
 
 ## Microsoft certificate
-<img src="https://github.com/cloudCoder512/achievement/blob/master/Achievements01.pdf" title="Meme" alt="Please refresh the page if doesn't show up." height="70"></a>|<img src="https://pbs.twimg.com/profile_images/1638485848533667841/pSwgVMRh_400x400.jpg" title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a>|
-<img src="https://pbs.twimg.com/profile_images/1638485848533667841/pSwgVMRh_400x400.jpg" title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a>|
-<img src="https://pbs.twimg.com/profile_images/1638485848533667841/pSwgVMRh_400x400.jpg" title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a>
-<img src="https://pbs.twimg.com/profile_images/1638485848533667841/pSwgVMRh_400x400.jpg" title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a>
-<img src="https://pbs.twimg.com/profile_images/1638485848533667841/pSwgVMRh_400x400.jpg" title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a>
-<img src="https://pbs.twimg.com/profile_images/1638485848533667841/pSwgVMRh_400x400.jpg" title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a>
-<img src="https://pbs.twimg.com/profile_images/1638485848533667841/pSwgVMRh_400x400.jpg" title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a>
-<img src="https://pbs.twimg.com/profile_images/1638485848533667841/pSwgVMRh_400x400.jpg" title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a>
-<img src="https://pbs.twimg.com/profile_images/1638485848533667841/pSwgVMRh_400x400.jpg" title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a>
-<img src="https://pbs.twimg.com/profile_images/1638485848533667841/pSwgVMRh_400x400.jpg" title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a>
-<img src="https://pbs.twimg.com/profile_images/1638485848533667841/pSwgVMRh_400x400.jpg" title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a>
-<img src="https://pbs.twimg.com/profile_images/1638485848533667841/pSwgVMRh_400x400.jpg" title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a>
+<p align='center'>
+<img src='https://hacked-github-stat-trophies.vercel.app/?username=tynab&theme=dracula&column=11'>
+</p>
+<div>
+    <img src='https://github.com/My-Project512/Tynab/blob/main/certificate/SE.png' width='279' title='Software Engineer'>
+    <img src='https://github.com/My-Project512/Tynab/blob/main/certificate/FE.png' width='279' title='Frontend Developer (React)'>
+    <img src='https://github.com/My-Project512/Tynab/blob/main/certificate/Java1.png' width='279' title='Java (Basic)'>
+    <img src='https://github.com/My-Project512/Tynab/blob/main/certificate/Python1.png' width='279' title='Python (Basic)'>
+    <img src='https://github.com/My-Project512/Tynab/blob/main/certificate/JavaScript2.png' width='279' title='JavaScript (Intermediate)'>
+    <img src='https://github.com/My-Project512/Tynab/blob/main/certificate/Go2.png' width='279' title='Go (Intermediate)'>
+    <img src='https://github.com/My-Project512/Tynab/blob/main/certificate/Problem2.png' width='279' title='Problem Solving (Intermediate)'>
+    <img src='https://github.com/My-Project512/Tynab/blob/main/certificate/Rest2.png' width='279' title='Rest API (Intermediate)'>
+    <img src='https://github.com/My-Project512/Tynab/blob/main/certificate/SQL3.png' width='279' title='SQL (Advanced)'>
+</div>
+
 
 ## Let's Connect :handshake:
 
