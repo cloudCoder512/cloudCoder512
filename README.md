@@ -54,24 +54,19 @@ These are some of the major technologies that I use or have worked on in the pas
 |--|--|
 
 <br>
-
 ## Microsoft certificate
-<p align='center'>
-<img src='https://hacked-github-stat-trophies.vercel.app/?username=tynab&theme=dracula&column=11'>
-</p>
-<div>
-    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate1.png' width='279' title='Software Engineer'>
-    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate2.png' width='279' title='Software Engineer'>
-    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate3.png' width='279' title='Software Engineer'>
-    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate4.png' width='279' title='Software Engineer'>
-    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate5.png' width='279' title='Software Engineer'>
-    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate6.png' width='279' title='Software Engineer'>
-    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate7.png' width='279' title='Software Engineer'>
-    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate8.png' width='279' title='Software Engineer'>
-    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate9.png' width='279' title='Software Engineer'>
-    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate10.png' width='279' title='Software Engineer'>
-    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate11.png' width='279' title='Software Engineer'>
-    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate12.png' width='279' title='Software Engineer'>
+    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate1.png' width='300'>
+    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate2.png' width='300'>
+    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate3.png' width='300'>
+    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate4.png' width='300'>
+    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate5.png' width='300'>
+    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate6.png' width='300'>
+    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate7.png' width='300'>
+    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate8.png' width='300'>
+    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate9.png' width='300'>
+    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate10.png' width='300'>
+    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate11.png' width='300'>
+    <img src='https://github.com/cloudCoder512/achievement/blob/master/certificate12.png' width='300'>
 </div>
 
 
