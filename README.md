@@ -57,9 +57,24 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ## Some of my stats :bar_chart:
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cloudCoder512&theme=radical">|<img src="https://www.sliderrevolution.com/wp-content/uploads/2021/09/sliderrevolution-blog-image-6.gif" height="250">|<img src="https://streak-stats.demolab.com/?user=cloudCoder512&theme=radical">
-|--|--|--|
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cloudCoder512&theme=radical">
+    </td>
+    <td width="50%">
+      <img src="https://www.sliderrevolution.com/wp-content/uploads/2021/09/sliderrevolution-blog-image-6.gif" height="200">
+    </td>
+  </tr>
+</table>
 
+<br>
+
+<center>
+  <img src="https://streak-stats.demolab.com/?user=cloudCoder512&theme=radical">
+</center>
+
+<br>
 
 ## Let's Connect :handshake:
 
