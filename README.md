@@ -1,7 +1,7 @@
 
 <h1>Hi There, I'm Adarsh Varma <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Web Developer and software Engineer** working at [MyVault](https://cloudcoder512.github.io/CornFlax/). My day to day work revolves around building Usefull and Tools models for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
+I'm a **Web Developer and software Engineer** This is my website [MyVault](https://cloudcoder512.github.io/CornFlax/). My day to day work revolves around building Usefull and Tools models for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
 <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
@@ -80,8 +80,3 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <a href="https://www.linkedin.com/in/adarsh-varma-32504b392/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.instagram.com/mr.adarsh512/"><img src="https://github.com/user-attachments/assets/4d4fed5c-2c26-4611-8633-f6fc0e2642c7" width="40"></a>
 |--|--|
-
-### Here is a random meme for you, to make your day better
-(*Refresh the page to see a new meme* :wink: )
-
-<a href="https://www.craigthacker.dev/memes"><img src="https://www.pngplay.com/wp-content/uploads/6/Doge-Head-Meme-Transparent-Background.png" title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a><img src="https://pbs.twimg.com/profile_images/1638485848533667841/pSwgVMRh_400x400.jpg" title="Meme" alt="Please refresh the page if doesn't show up." height="400"></a>
