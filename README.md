@@ -49,28 +49,33 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **HackerRank Certificates**
 
-<p align="center">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.hackerrank.com/certificates/c74885ca9017">
+        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cert1.png" width="300"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.hackerrank.com/certificates/be6f659a1d1a">
+        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cert2.png" width="300"/>
+      </a>
+    </td>
+  </tr>
 
-<a href="https://www.hackerrank.com/certificates/c74885ca9017">
-  <img src="https://img.shields.io/badge/Certificate-1-brightgreen?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://www.hackerrank.com/certificates/be6f659a1d1a">
-  <img src="https://img.shields.io/badge/Certificate-2-brightgreen?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<br><br>
-
-<a href="https://www.hackerrank.com/certificates/e138f1498d76">
-  <img src="https://img.shields.io/badge/Certificate-3-brightgreen?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://www.hackerrank.com/certificates/a267a60f004d">
-  <img src="https://img.shields.io/badge/Certificate-4-brightgreen?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-</p>
-
+  <tr>
+    <td align="center">
+      <a href="https://www.hackerrank.com/certificates/e138f1498d76">
+        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cert3.png" width="300"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.hackerrank.com/certificates/a267a60f004d">
+        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cert4.png" width="300"/>
+      </a>
+    </td>
+  </tr>
+</table>
 ## Some of my stats :bar_chart:
 
 <table>
