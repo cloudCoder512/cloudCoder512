@@ -4,7 +4,6 @@
 I'm a **Web Developer and software Engineer** This is my website [MyVault](https://cloudcoder512.github.io/CornFlax/). My day to day work revolves around building Usefull and Tools models for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 </details>
 </div>
