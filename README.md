@@ -47,30 +47,29 @@ These are some of the major technologies that I use or have worked on in the pas
 <img title="Power BI" alt="Power BI" width="40px" src="https://img.icons8.com/color/512/power-bi-2021.png">|<img title="Power Apps" alt="Power Apps" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Powerapps-logo.svg/250px-Powerapps-logo.svg.png?20250219191713">
 |--|--|
 
-**Microsoft Certificates**
+**HackerRank Certificates**
 
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/cloudCoder512/achievement/master/certificate3.png" width="100%"/></td>
-    <td><img src="https://raw.githubusercontent.com/cloudCoder512/achievement/master/certificate4.png" width="100%"/></td>
-    <td><img src="https://raw.githubusercontent.com/cloudCoder512/achievement/master/certificate5.png" width="100%"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/cloudCoder512/achievement/master/certificate6.png" width="100%"/></td>
-    <td><img src="https://raw.githubusercontent.com/cloudCoder512/achievement/master/certificate7.png" width="100%"/></td>
-    <td><img src="https://raw.githubusercontent.com/cloudCoder512/achievement/master/certificate8.png" width="100%"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/cloudCoder512/achievement/master/certificate9.png" width="100%"/></td>
-    <td><img src="https://raw.githubusercontent.com/cloudCoder512/achievement/master/certificate10.png" width="100%"/></td>
-    <td><img src="https://raw.githubusercontent.com/cloudCoder512/achievement/master/certificate11.png" width="100%"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/cloudCoder512/achievement/master/certificate12.png" width="100%"/></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+<p align="center">
+
+<a href="https://www.hackerrank.com/certificates/c74885ca9017">
+  <img src="https://img.shields.io/badge/Certificate-1-brightgreen?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://www.hackerrank.com/certificates/be6f659a1d1a">
+  <img src="https://img.shields.io/badge/Certificate-2-brightgreen?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<br><br>
+
+<a href="https://www.hackerrank.com/certificates/e138f1498d76">
+  <img src="https://img.shields.io/badge/Certificate-3-brightgreen?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://www.hackerrank.com/certificates/a267a60f004d">
+  <img src="https://img.shields.io/badge/Certificate-4-brightgreen?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+</p>
 
 ## Some of my stats :bar_chart:
 
