@@ -47,10 +47,30 @@ These are some of the major technologies that I use or have worked on in the pas
 <img title="Power BI" alt="Power BI" width="40px" src="https://img.icons8.com/color/512/power-bi-2021.png">|<img title="Power Apps" alt="Power Apps" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Powerapps-logo.svg/250px-Powerapps-logo.svg.png?20250219191713">
 |--|--|
 
-**Microsoft Certificate**
+**Microsoft Certificates**
 
-<img alt="certificate" title="certificate" width="300px" src="https://github.com/cloudCoder512/achievement/blob/master/certificate3.png"><img title="certificate" alt="certificate" width="300px" src="https://github.com/cloudCoder512/achievement/blob/master/certificate4.png"><img title="certificate" alt="certificate" width="300px" src="https://github.com/cloudCoder512/achievement/blob/master/certificate5.png"><img title="certificate" alt="certificate" width="300px" src="https://github.com/cloudCoder512/achievement/blob/master/certificate6.png"><img title="certificate" alt="certificate" width="300px" src="https://github.com/cloudCoder512/achievement/blob/master/certificate7.png"><img title="certificate" alt="certificate" width="300px" src="https://github.com/cloudCoder512/achievement/blob/master/certificate8.png"><img title="certificate" alt="certificate" width="300px" src="https://github.com/cloudCoder512/achievement/blob/master/certificate9.png"><img title="certificate" alt="certificate" width="300px" src="https://github.com/cloudCoder512/achievement/blob/master/certificate10.png"><img title="certificate" alt="certificate" width="300px" src="https://github.com/cloudCoder512/achievement/blob/master/certificate11.png"><img title="certificate" alt="certificate" width="300px" src="https://github.com/cloudCoder512/achievement/blob/master/certificate12.png">
-
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/cloudCoder512/achievement/master/certificate3.png" width="100%"/></td>
+    <td><img src="https://raw.githubusercontent.com/cloudCoder512/achievement/master/certificate4.png" width="100%"/></td>
+    <td><img src="https://raw.githubusercontent.com/cloudCoder512/achievement/master/certificate5.png" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/cloudCoder512/achievement/master/certificate6.png" width="100%"/></td>
+    <td><img src="https://raw.githubusercontent.com/cloudCoder512/achievement/master/certificate7.png" width="100%"/></td>
+    <td><img src="https://raw.githubusercontent.com/cloudCoder512/achievement/master/certificate8.png" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/cloudCoder512/achievement/master/certificate9.png" width="100%"/></td>
+    <td><img src="https://raw.githubusercontent.com/cloudCoder512/achievement/master/certificate10.png" width="100%"/></td>
+    <td><img src="https://raw.githubusercontent.com/cloudCoder512/achievement/master/certificate11.png" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/cloudCoder512/achievement/master/certificate12.png" width="100%"/></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ## Some of my stats :bar_chart:
 
