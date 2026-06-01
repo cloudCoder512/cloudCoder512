@@ -58,7 +58,7 @@ These are some of the major technologies that I use or have worked on in the pas
     </td>
     <td align="center">
       <a href="https://www.hackerrank.com/certificates/be6f659a1d1a">
-        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cert2.png" width="300"/>
+        <img src="https://github.com/cloudCoder512/cloudCoder512/blob/master/Certificates/SQL.png?raw=true" width="300"/>
       </a>
     </td>
   </tr>
@@ -66,12 +66,12 @@ These are some of the major technologies that I use or have worked on in the pas
   <tr>
     <td align="center">
       <a href="https://www.hackerrank.com/certificates/e138f1498d76">
-        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cert3.png" width="300"/>
+        <img src="https://github.com/cloudCoder512/cloudCoder512/blob/master/Certificates/Software.png?raw=true" width="300"/>
       </a>
     </td>
     <td align="center">
       <a href="https://www.hackerrank.com/certificates/a267a60f004d">
-        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cert4.png" width="300"/>
+        <img src="https://github.com/cloudCoder512/cloudCoder512/blob/master/Certificates/javascript.png?raw=true" width="300"/>
       </a>
     </td>
   </tr>
