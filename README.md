@@ -53,7 +53,7 @@ These are some of the major technologies that I use or have worked on in the pas
   <tr>
     <td align="center">
       <a href="https://www.hackerrank.com/certificates/c74885ca9017">
-        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cert1.png" width="300"/>
+        <img src="https://github.com/cloudCoder512/cloudCoder512/blob/master/Certificates/React.png?raw=true" width="300"/>
       </a>
     </td>
     <td align="center">
